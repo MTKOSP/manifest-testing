@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- external repos -->
+  <project path="external/colorkt" name="android_external_colorkt" remote="mtkosp" />
+  <project path="external/themelib" name="android_external_themelib" remote="mtkosp" />
   <project path="external/tinyxml" name="android_external_tinyxml" remote="mtkosp" />
 
   <!-- MTKOSP additions -->
